@@ -1,0 +1,15 @@
+id,name,is_group
+1,Skrillex,False
+2,Eminem,False
+3,Metallica,True
+4,Linkin Park,True
+5,Hardwell,False
+6,50 Cent,False
+7,Slipknot,True
+8,Green Day,True
+9,Britney Spears,False
+10,Snoop Dogg,False
+11,Billy Talent,True
+12,Sum 41,True
+13,Maroon 5,False
+14,Hip-Hop,NULL
